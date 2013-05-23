@@ -1,0 +1,3 @@
+[submodule "JSON-Pretty-Printer"]
+	path = JSON-Pretty-Printer
+	url = git://github.com/johndistasio/JSON-Pretty-Printer.git
